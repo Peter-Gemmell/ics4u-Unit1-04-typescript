@@ -1,0 +1,15 @@
+#############################
+#############################
+## Prettier Linter Rules   ##
+##    Mr Coxall            ##
+#############################
+#############################
+
+{
+  "trailingComma": "all",
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false
+}
+
